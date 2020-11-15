@@ -1,0 +1,11 @@
+.users {
+    padding: 10px
+}
+
+.selected {
+    font-weight: 900;
+}
+
+.paginator{
+    text-align: center;
+}
